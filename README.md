@@ -1,5 +1,7 @@
 # lab1
 
+Abdallah Mohamed
+
 Collaborator  
 Collaborators always play an active role in the research, and the position is sometimes defined interchangeably with co-investigator. As a loose guideline, think of a collaborator as a scientist whose distinct expertise complements your own while a co-investigator shares your area of expertise and therefore contributes in guiding the scientific direction of the overall project. One provides unique expertise, the other umbrella expertise.
 
